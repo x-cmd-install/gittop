@@ -7,7 +7,7 @@ about:
   head: 88eb1a8
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:22:31Z
+  collectedAt: 2026-09-04T21:11:09Z
 timeline:
   created: 2026-03-12
   lastCommit: 2026-08-30
@@ -82,5 +82,28 @@ total:
   openIssue: 1
   commit: 67
 ---
+path: /home/runner/.x-repo/github.com/hjr265/gittop
+collectedAt: 2026-09-04T21:11:10Z
+loc:
+  Go:
+    code: 5100
+    comments: 239
+    blanks: 692
+    files: 17
+  Nix:
+    code: 44
+    comments: 2
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 70
+    blanks: 27
+    files: 1
+total:
+  code: 5144
+  comments: 311
+  blanks: 726
+  files: 19
 ---
 
