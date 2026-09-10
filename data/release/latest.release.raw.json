@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3555509,
       "digest": "sha256:16119933181787898657310f118a8bd3467bbad277a5bf1694dda35d1e5e283b",
-      "download_count": 363,
+      "download_count": 364,
       "created_at": "2026-03-19T18:03:36Z",
       "updated_at": "2026-03-19T18:03:37Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3220183,
       "digest": "sha256:f42b385719365050bae3d6e81d4b0d803c0a3d0bd9a5222111faae1da3585720",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-03-19T18:03:37Z",
       "updated_at": "2026-03-19T18:03:38Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_linux_arm64.tar.gz"
