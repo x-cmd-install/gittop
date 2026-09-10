@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:20:47Z
+  collectedAt: 2026-09-10T17:22:24Z
 timeline:
   created: 2026-03-12
   lastCommit: 2026-08-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-19
   lastPrerelease: 
 popularity:
-  star: 157
+  star: 156
   watcher: 2
   fork: 5
   release: 5
@@ -85,7 +85,7 @@ total:
   commit: 67
 ---
 path: /home/runner/.x-repo/github.com/hjr265/gittop
-collectedAt: 2026-09-10T05:20:48Z
+collectedAt: 2026-09-10T17:22:25Z
 loc:
   Go:
     code: 5100
