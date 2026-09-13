@@ -45,12 +45,12 @@ Total: **5,144** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-14 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-03-16 | 3 | 1 | 1 | 3 | 1 | 26 |
-| 360d | 2025-09-17 | 5 | 1 | 1 | 4 | 1 | 66 |
-| last720d | 2024-09-22 | 5 | 1 | 1 | 4 | 1 | 67 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-17 | 3 | 1 | 1 | 2 | 1 | 7 |
+| 360d | 2025-09-18 | 5 | 1 | 1 | 4 | 1 | 66 |
+| last720d | 2024-09-23 | 5 | 1 | 1 | 4 | 1 | 67 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gittop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:10:22Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:23:33Z._
