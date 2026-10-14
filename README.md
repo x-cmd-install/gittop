@@ -14,11 +14,11 @@ x install gittop
 
 ## Code insight
 
-Total: **5,734** lines of code across **21** files in the top 5 languages.
+Total: **6,223** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 5,690 | 296 | 750 | 19 |
+| Go | 6,179 | 349 | 809 | 21 |
 | Nix | 44 | 2 | 7 | 1 |
 | Markdown | 0 | 73 | 28 | 1 |
 
@@ -35,22 +35,22 @@ Total: **5,734** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 157 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 2
+- **Stars**: 158 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 74
+- **Releases**: 5 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 82
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 10 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 1 | 12 |
-| 360d | 2025-10-18 | 5 | 1 | 1 | 4 | 1 | 73 |
-| last720d | 2024-10-23 | 5 | 1 | 1 | 4 | 1 | 74 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 18 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 19 |
+| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 1 | 20 |
+| 360d | 2025-10-19 | 5 | 1 | 1 | 4 | 1 | 81 |
+| last720d | 2024-10-24 | 5 | 1 | 1 | 4 | 1 | 82 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:22:19Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:26:06Z._
