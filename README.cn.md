@@ -29,8 +29,8 @@ x install gittop
 
 ## 发布
 
-- **最新版本**: `v0.4.0` (2026-03-19)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v0.5.0` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -39,30 +39,30 @@ x install gittop
 
 ## 累计统计
 
-- **发布数**: 5 · **已合并 PR**: 1 · **开放 PR**: 1 · **已关闭 issue**: 4 · **开放 issue**: 1 · **提交数**: 82
+- **发布数**: 6 · **已合并 PR**: 1 · **开放 PR**: 1 · **已关闭 issue**: 4 · **开放 issue**: 1 · **提交数**: 83
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 15 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 18 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 19 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 1 | 20 |
-| 360d | 2025-10-19 | 5 | 1 | 1 | 4 | 1 | 81 |
-| last720d | 2024-10-24 | 5 | 1 | 1 | 4 | 1 | 82 |
+| 30d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 16 |
+| last60d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 19 |
+| 90d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 20 |
+| last180d | 2026-04-18 | 1 | 0 | 0 | 0 | 1 | 21 |
+| 360d | 2025-10-20 | 6 | 1 | 1 | 4 | 1 | 82 |
+| last720d | 2024-10-25 | 6 | 1 | 1 | 4 | 1 | 83 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gittop_0.4.0_checksums.txt](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_checksums.txt) | 588 B | `other` |
-| [gittop_0.4.0_darwin_amd64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_darwin_amd64.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [gittop_0.4.0_darwin_arm64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_darwin_arm64.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [gittop_0.4.0_linux_amd64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
-| [gittop_0.4.0_linux_arm64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
-| [gittop_0.4.0_windows_amd64.zip](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_windows_amd64.zip) | 3.5 MiB | `native/win/x64` |
-| [gittop_0.4.0_windows_arm64.zip](https://github.com/hjr265/gittop/releases/download/v0.4.0/gittop_0.4.0_windows_arm64.zip) | 3.1 MiB | `native/win/arm64` |
+| [gittop_0.5.0_checksums.txt](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_checksums.txt) | 588 B | `other` |
+| [gittop_0.5.0_darwin_amd64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_darwin_amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [gittop_0.5.0_darwin_arm64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [gittop_0.5.0_linux_amd64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [gittop_0.5.0_linux_arm64.tar.gz](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [gittop_0.5.0_windows_amd64.zip](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_windows_amd64.zip) | 3.6 MiB | `native/win/x64` |
+| [gittop_0.5.0_windows_arm64.zip](https://github.com/hjr265/gittop/releases/download/v0.5.0/gittop_0.5.0_windows_arm64.zip) | 3.2 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ gittop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:26:06Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:08:44Z._
