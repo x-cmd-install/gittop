@@ -14,11 +14,11 @@ x install gittop
 
 ## Code insight
 
-Total: **6,223** lines of code across **23** files in the top 5 languages.
+Total: **6,622** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,179 | 349 | 809 | 21 |
+| Go | 6,578 | 356 | 837 | 21 |
 | Nix | 44 | 2 | 7 | 1 |
 | Markdown | 0 | 73 | 28 | 1 |
 
@@ -30,27 +30,27 @@ Total: **6,223** lines of code across **23** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 158 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 2
+- **Stars**: 159 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 83
+- **Releases**: 6 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 89
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 16 |
-| last60d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 19 |
-| 90d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 20 |
-| last180d | 2026-04-18 | 1 | 0 | 0 | 0 | 1 | 21 |
-| 360d | 2025-10-20 | 6 | 1 | 1 | 4 | 1 | 82 |
-| last720d | 2024-10-25 | 6 | 1 | 1 | 4 | 1 | 83 |
+| 30d | 2026-09-16 | 1 | 0 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 21 |
+| 90d | 2026-07-18 | 1 | 0 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-19 | 1 | 0 | 0 | 0 | 1 | 23 |
+| 360d | 2025-10-21 | 6 | 2 | 0 | 4 | 1 | 86 |
+| last720d | 2024-10-26 | 6 | 2 | 0 | 4 | 1 | 89 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:08:44Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:02:19Z._
