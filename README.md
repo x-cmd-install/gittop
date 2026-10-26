@@ -45,12 +45,12 @@ Total: **7,016** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 0 | 0 | 0 | 0 | 25 |
-| last60d | 2026-08-26 | 2 | 0 | 0 | 0 | 0 | 25 |
-| 90d | 2026-07-27 | 2 | 0 | 0 | 0 | 0 | 29 |
-| last180d | 2026-04-28 | 2 | 0 | 0 | 0 | 1 | 30 |
-| 360d | 2025-10-30 | 7 | 2 | 0 | 4 | 1 | 93 |
-| last720d | 2024-11-04 | 7 | 2 | 0 | 4 | 1 | 96 |
+| 30d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 25 |
+| last60d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 25 |
+| 90d | 2026-07-28 | 2 | 0 | 0 | 0 | 0 | 29 |
+| last180d | 2026-04-29 | 2 | 0 | 0 | 0 | 1 | 30 |
+| 360d | 2025-10-31 | 7 | 2 | 0 | 4 | 1 | 93 |
+| last720d | 2024-11-05 | 7 | 2 | 0 | 4 | 1 | 96 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **7,016** lines of code across **23** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/gittop). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/gittop). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for gittop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:04:49Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:19:25Z._
