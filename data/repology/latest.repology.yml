@@ -4,7 +4,7 @@
   visiblename: gittop
   version: 0.5.3
   origversion: 0.5.3-1
-  status: newest
+  status: outdated
   summary: A lightweight GitHub notifications client. Why spin up a browser just to check your GitHub notifications?
   maintainers:
     - amarbego@aur
@@ -16,7 +16,7 @@
   visiblename: gittop-bin
   version: 0.5.3
   origversion: 0.5.3-1
-  status: newest
+  status: outdated
   summary: A lightweight GitHub notifications client. Why spin up a browser just to check your GitHub notifications?
   maintainers:
     - amarbego@aur
@@ -27,15 +27,15 @@
   visiblename: GitTop
   version: 0.5.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Lightweight GitHub notifications desktop client
 - repo: freebsd
   srcname: devel/gittop
   binname: gittop
   visiblename: devel/gittop
-  version: 0.5.0
-  origversion: 0.5.0_1
-  status: outdated
+  version: 0.6.0
+  origversion: null
+  status: newest
   summary: Terminal UI for Git repository statistics
   maintainers:
     - olgeni@freebsd.org
