@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3754785,
       "digest": "sha256:7af2fb36afd66a6ed32ef35496d03a54d065127918d3ea8bc6670b8882e01734",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-16T09:33:23Z",
       "updated_at": "2026-10-16T09:33:23Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.6.0/gittop_0.6.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3456505,
       "digest": "sha256:acfb253b75dc1faa88e97a373779734d718f7f284b4133bb58c087a1b5b56d48",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-16T09:33:23Z",
       "updated_at": "2026-10-16T09:33:23Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.6.0/gittop_0.6.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3694252,
       "digest": "sha256:f7758d4ee68a110e458db98c5686c2a36b410d99c0ba3062bc52a1d780ebf37b",
-      "download_count": 79,
+      "download_count": 83,
       "created_at": "2026-10-16T09:33:23Z",
       "updated_at": "2026-10-16T09:33:23Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.6.0/gittop_0.6.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3791840,
       "digest": "sha256:c8a685add4a6c39832a58751dba871da3bed7651eec904d1781917243c1453a7",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-16T09:33:24Z",
       "updated_at": "2026-10-16T09:33:24Z",
       "browser_download_url": "https://github.com/hjr265/gittop/releases/download/v0.6.0/gittop_0.6.0_windows_amd64.zip"
