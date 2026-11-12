@@ -34,7 +34,7 @@
   binname: gittop
   visiblename: devel/gittop
   version: 0.6.0
-  origversion: null
+  origversion: 0.6.0_1
   status: newest
   summary: Terminal UI for Git repository statistics
   maintainers:
